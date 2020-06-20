@@ -24,7 +24,8 @@ linkedin_username: kajal-gupta-568134156
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Kajal and I'm pursuing MSc. Computer Science from University of Delhi. I am interested in <mark>Machine Learning</mark> and <mark>Software Development</mark>.
+  Hi, my name's Kajal and I'm pursuing MSc. Computer Science from Department of Computer Science, University of Delhi. 
+I am interested in <mark>Machine Learning</mark> and <mark>Software Development</mark>.
 
 
 # Projects Section
