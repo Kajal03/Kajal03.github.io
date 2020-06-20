@@ -83,6 +83,13 @@
             </a>
           </li>
         {%- endif -%}
+	{%- if site.gmail_username -%}
+          <li>
+            <a target="_blank" href="https://www.gmail.com/{{ site.gmail_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-envelope" title="Gmail link"></i>
+            </a>
+          </li>
+        {%- endif -%}
         {%- if site.googleplus_username -%}
           <li>
             <a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}" class="button button--sacnite button--round-l">

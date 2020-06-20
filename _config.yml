@@ -1,13 +1,13 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: assets/favicon.ico
 
 # Personal info
 name: Kajal Gupta
 #title: Your job title
-email: connected.kajal@gmail.com 
+email: kajalg.mcs19.du@gmail.com 
 #phone: Your phone number (optional)
-website: kajal.github.io 
+#website: kajal.github.io 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,16 +25,18 @@ linkedin_username: kajal-gupta-568134156
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
+gmail_username: kajalg.msc19.du@gmail.com
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Hello
+#  icon: fa-envelope-square
+#  url: https://google.com
+
+#- title: another link
+#  icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
