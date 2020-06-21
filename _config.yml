@@ -48,7 +48,7 @@ gmail_username: kajalg.msc19.du@gmail.com
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/dp2.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Hi, I am a second year student pursuing MSc. Computer Science from Department of Computer Science, University of Delhi. <br> I'm most attracted to solving algorithmic challenges.<br>I am interested in <mark>Machine Learning</mark>.
+ Hi, I am a second year student pursuing MSc. Computer Science from Department of Computer Science, University of Delhi. <br> I'm most attracted to solving algorithmic challenges and <mark>Machine Learning</mark>.<br> <br> If you are interested, you can view some of my favorite projects in my portfolio down below.
 
 
 # Projects Section
@@ -63,8 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  When I am not coding I like to spend my time outdoors. I enjoy swimming, roller skating and painting.
-
+  When I am not coding I am very active and spend most of my time outdoors. I enjoy swimming and roller skating. As I like to be creative, I try to   	make time for painting.
 # Footer
 footer_show_references: true
 
