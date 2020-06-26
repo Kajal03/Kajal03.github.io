@@ -4,8 +4,8 @@
   name: Buffer Cache Simulation
   github: Kajal03/Buffer-Cache-Simulation
   description: | # this will include new lines to allow paragraphs
-    User-driven implementation of Buffer Cache Management System in Multiprogramming Environment
-    Simulated getblk and brelse algorithms that handle the allocation and release of buffers to processes
+    A simulation of Buffer Cache Management System in Multiprogramming Environment.
+    Implemented getblk and brelse algorithms of the operating system that handle the buffers used by processes.
 
 
 
@@ -14,9 +14,9 @@
   name: University of Delhi Scorecard Fetcher
   github: Kajal03/University-of-Delhi-Scorecard-Mailer
   description: | # this will include new lines to allow paragraphs
-    A web-scraping system that emails the candidate his/her scorecard upon the declaration of result
-    The system is capable of fetching scorecards of different colleges and courses throughout Delhi University
-    Tesseract-OCR​ is employed to bypass captcha on University’s website
+    A web-scraping system that emails the candidate his/her scorecard upon the declaration of result.
+    The system is capable of fetching scorecards of different colleges and courses throughout Delhi University.
+    
 
 
 
@@ -24,10 +24,10 @@
   name: Driver Drowsiness Detection System
   github: Kajal03/Driver-Drowsiness-Detection
   description: | # this will include new lines to allow paragraphs
-    A computer vision system that detects driver drowsiness in a real-time video stream
-    o An alarm is triggered if the driver appears to be drowsy depending upon the driver failing a certain
-    threshold score
-    o The system can also be deployed to prevent/detect fatigue-related accidents
+    A computer vision system that detects driver drowsiness in a real-time video stream.
+    An alarm is triggered if the driver appears to be drowsy depending upon the driver failing a certain
+    threshold score.
+    The system can also be deployed to prevent/detect fatigue-related accidents.
 
 
 
@@ -37,7 +37,7 @@
   github: Kajal03/AI-Image-Captioning-Bot
   description: | # this will include new lines to allow paragraphs
     A Deep Learning model for Image Captioning, wherein the bot takes an image from the user and generates
-    captions describing it
-    o For easy access, the system is deployed as a Flask Web Application
-    o The model uses transfer learning to extract features from an image which are further used by LSTM layers
-    to generate captions 
+    captions describing it.
+    For easy access, the system is deployed as a Flask Web Application
+    The model uses transfer learning to extract features from an image which are further used by LSTM layers
+    to generate captions. 
