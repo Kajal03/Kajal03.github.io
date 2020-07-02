@@ -48,7 +48,7 @@ gmail_username: kajalg.msc19.du@gmail.com
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/dp.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Hi, I am a second year student pursuing MSc. Computer Science from Department of Computer Science, University of Delhi. <br> I'm most attracted to solving algorithmic challenges and <mark>Machine Learning</mark>.<br> <br> If you are interested, you can view some of my favorite projects in my portfolio down below.
+ <br><br> Hi, I am a final year student pursuing MSc. Computer Science from Department of Computer Science, University of Delhi. <br> I love to code and solve algorithmic challenges. I am also interested in Machine Learning and Deep Learning.<br> If you are interested, you can view some of my favorite projects in my portfolio down below.
 
 
 # Projects Section
