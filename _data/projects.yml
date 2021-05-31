@@ -1,6 +1,14 @@
 # Project template
 
 - layout: left
+  name: Course Management System
+  github: Kajal03/Course-Management-System
+  description: | # this will include new lines to allow paragraphs
+    An online platform for hosting courses and managing them.
+    Allows trainers to efficiently manage course material by keeping the version history.
+
+
+- layout: left
   name: Buffer Cache Simulation
   github: Kajal03/Buffer-Cache-Simulation
   description: | # this will include new lines to allow paragraphs
